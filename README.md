@@ -1,3 +1,3 @@
 # PlantBuddy-App
 
-You can download zip file from release, and enjoy PlantBuddy App!!!
+You can download zip file from releases, and enjoy PlantBuddy App!!!
